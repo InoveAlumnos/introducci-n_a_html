@@ -70,7 +70,7 @@ href=""
 ```
 Para generar un enlace hacia la página __index.html__. Puede encontrar el detalle en la documentación de clase.
 
-##### 6)
+##### 7)
 Generar los enlaces que vinculan a la página con los documentos:
 * script.js
 * style.css
@@ -78,7 +78,7 @@ Generar los enlaces que vinculan a la página con los documentos:
 -----------------------------
 La página resultante debe ser parecida a esta:
 
-![Pagina terminada](img\web_terminada.PNG)
+![Pagina_terminada](img/web_terminada.PNG)
 
 ##### Éxitos!
 
